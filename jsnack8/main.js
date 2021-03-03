@@ -3,8 +3,6 @@
 
 var number = prompt("Write a 4 digit number:");
 
-console.log(number);
-
 var sum = 0;
 
 for (var i = 0; i < number.length; i++) {
